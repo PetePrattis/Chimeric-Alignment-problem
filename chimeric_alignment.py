@@ -1,5 +1,7 @@
 import sys
 import random
+
+#for random sequence
 '''
 cdna =[]
 x=0
